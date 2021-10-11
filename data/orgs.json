@@ -1,0 +1,105 @@
+[
+  {
+    "name": "org-1",
+    "id": "org-1",
+    "type": "organization",
+    "parent": null,
+    "representation": "member-1",
+    "members": ["member-1", "member-2", "member-3"]
+  },
+  {
+    "name": "org-2",
+    "id": "org-2",
+    "type": "organization",
+    "parent": "org-1",
+    "representation": "member-5",
+    "members": ["member-4", "member-5", "member-6"]
+  },
+  {
+    "name": "org-3",
+    "id": "org-3",
+    "type": "organization",
+    "parent": null,
+    "representation": "member-9",
+    "members": ["member-7", "member-8", "member-9"]
+  },
+  {
+    "name": "org-4",
+    "id": "org-4",
+    "type": "organization",
+    "parent": "org-3",
+    "representation": "member-10",
+    "members": ["member-10", "member-11", "member-12"]
+  },
+  {
+    "name": "org-5",
+    "id": "org-5",
+    "type": "organization",
+    "parent": "org-4",
+    "representation": "member-13",
+    "members": ["member-13", "member-14", "member-15"]
+  },
+  {
+    "name": "org-6",
+    "id": "org-6",
+    "type": "organization",
+    "parent": "org-5",
+    "representation": "member-16",
+    "members": ["member-16", "member-17", "member-18"]
+  },
+  {
+    "name": "org-7",
+    "id": "org-7",
+    "type": "organization",
+    "parent": "org-6",
+    "representation": "member-21",
+    "members": ["member-19", "member-20", "member-21"]
+  },
+  {
+    "name": "org-8",
+    "id": "org-8",
+    "type": "organization",
+    "parent": "org-7",
+    "representation": "member-22",
+    "members": ["member-22", "member-23", "member-24"]
+  },
+  {
+    "name": "org-9",
+    "id": "org-9",
+    "type": "organization",
+    "parent": "org-8",
+    "representation": "member-25",
+    "members": [
+      "member-25",
+      "member-26",
+      "member-27",
+      "member-28",
+      "member-29",
+      "member-30",
+      "member-31"
+    ]
+  },
+  {
+    "name": "org-10",
+    "id": "org-10",
+    "type": "organization",
+    "parent": "org-9",
+    "representation": "member-32",
+    "members": null
+  },
+  {
+    "name": "org-11",
+    "id": "org-11",
+    "type": "organization",
+    "parent": "org-10",
+    "representation": "member-17",
+    "members": []
+  },
+  {
+    "name": "org-12",
+    "id": "org-12",
+    "type": "organization",
+    "parent": "org-11",
+    "representation": "member-18"
+  }
+]
