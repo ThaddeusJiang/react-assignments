@@ -1,4 +1,4 @@
-# React Assignment - Hard
+# React Assignment - Medium
 
 > This assignment is aimed to help us assess your `React` and `JavaScript` skills.
 
