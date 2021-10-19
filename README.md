@@ -1,10 +1,12 @@
-# React Assignment - Medium
+# React Assignment - Hard
 
 > This assignment is aimed to help us assess your React and JavaScript skills.
 
 There are several projects, please choose one to complete.
 
-* [No.1 project](#no1)
+- [React Assignment - Hard](#react-assignment---hard)
+  - [No.1 build a very simple Twitter-like web application.](#no1-build-a-very-simple-twitter-like-web-application)
+  - [No.2 TODO:](#no2-todo)
 
 ## No.1 build a very simple Twitter-like web application.
 
