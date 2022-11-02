@@ -1,16 +1,17 @@
-# React Assignment - Hard
+# React Assignment - fake Twitter
 
-> This assignment is aimed to help us assess your React and JavaScript skills.
+build a very simple Twitter-like web application.
 
-There are several projects, please choose one to complete.
+## features
 
-- [React Assignment - Hard](#react-assignment---hard)
-  - [No.1 build a very simple Twitter-like web application.](#no1-build-a-very-simple-twitter-like-web-application)
-  - [No.2 TODO:](#no2-todo)
+- [ ] register an account (store data in LocalStorage)
+- [ ] login
+- [ ] CRUD tweets
+- [ ] load more tweets via scroll down
+- [ ] switch theme
+- [ ] 1 column in iPhone screen size, 2 columns in iPad screen size
 
-## No.1 build a very simple Twitter-like web application.
-
-<details>
+## Details
 
 This is a Reactjs exercise that requires you to build a very simple Twitter-like web application. For simplicity, there is no backend involved in the application and the data should be stored on Redux. So, it doesn't matter if all the data is lost on closing/reloading of the webpage.
 
@@ -31,7 +32,3 @@ On clicking on the tweets shown in the timeline page, user is taken to the corre
 In the timeline page, there is a Logout button so that the user can logout and be taken to the homepage again, where he can register another account. But registering a new account (with a new Username) doesn't delete the tweets created by previous users if the session has not been destroyed.
 
 Bonus Point: Use bootstrap framework for designing the UI. Use only latest stable versions of all the libraries you use. Assessment You can create a github repo and push the code there and then share the repo url. Document how to run your code on our local machine. Clean readable code is preferred over a feature rich app.
-
-</details>
-
-## No.2 TODO:
